@@ -1,0 +1,18 @@
+
+{
+  "name": "create_redux_actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "drylikov",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.1.2",
+    "jest": "^24.0.0",
+    "lodash": "^4.17.11",
+    "redux-actions": "^2.6.4"
+  }
+}
